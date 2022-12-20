@@ -4,7 +4,7 @@
 
 
 
-![codesparadox](https://user-images.githubusercontent.com/69432977/208690435-960c33f1-9ebb-47dc-bdaa-585b90779196.gif)
+![alt-text](https://user-images.githubusercontent.com/69432977/208690435-960c33f1-9ebb-47dc-bdaa-585b90779196.gif)
 
 
 
