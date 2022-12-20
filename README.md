@@ -3,7 +3,8 @@
 
 
 
-![codesparadox](https://user-images.githubusercontent.com/69432977/208690030-5f8d23f1-5792-4be9-9d85-5321fd457b0e.gif)
+
+![codesparadox](https://user-images.githubusercontent.com/69432977/208690435-960c33f1-9ebb-47dc-bdaa-585b90779196.gif)
 
 
 
