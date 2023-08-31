@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodesParadox student in CS final year
+- 👋 Hi, I’m @CodesParadox Computer Science 
 - 👀 I’m interested in Security Information and Cyber 
 
 
