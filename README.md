@@ -1,3 +1,6 @@
+```javascript
+console.log("hello world")
+```
 - 👋 Hi, I’m @CodesParadox Computer Science 
 - 👀 I’m interested in Security Information and Cyber 
 
