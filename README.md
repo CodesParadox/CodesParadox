@@ -17,7 +17,7 @@ console.log("hello world")
  
  🔭  computer science 
  
- 🌱 I’m currently learning **DevOps**
+ 🌱 DevOps
 
 </div>
 
